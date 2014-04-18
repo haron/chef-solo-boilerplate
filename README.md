@@ -4,7 +4,7 @@
 
 # Server bootstrap
 
-Just bootstrap using default run list (which is "recipe[op]"):
+Just bootstrap using default run list (which is `recipe[op]`):
 
     fab -H host1,host2
 
